@@ -41,7 +41,7 @@ RSSI値をファイルにログとして保存
 # クライアントの実行結果   
 ## 表示結果  
 <img width="522" alt="スクリーンショット 2024-12-19 042417" src="https://github.com/user-attachments/assets/29e3ceab-f9f9-41da-8100-77b22dfc96b7" />  
-## ファイル出力の結果  
+##  ファイル出力の結果  
 <img width="350" alt="スクリーンショット 2024-12-19 043009" src="https://github.com/user-attachments/assets/35b5a421-f215-4aab-9895-73e9492fe4c0" />  
 
 
