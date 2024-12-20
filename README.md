@@ -40,9 +40,15 @@ RSSI値をファイルにログとして保存
 
 # クライアントの実行結果   
 表示結果  
-<img width="522" alt="スクリーンショット 2024-12-19 042417" src="https://github.com/user-attachments/assets/29e3ceab-f9f9-41da-8100-77b22dfc96b7" />  
+![image](https://github.com/user-attachments/assets/4689a7de-192e-4e24-9ffa-e209a5390f42) 
 ファイル出力の結果  
-<img width="350" alt="スクリーンショット 2024-12-19 043009" src="https://github.com/user-attachments/assets/35b5a421-f215-4aab-9895-73e9492fe4c0" />  
+![image](https://github.com/user-attachments/assets/60921c67-9dbd-4b29-8cb7-7f64883d8fec)
+
+#アクセスポイントの実行結果
+表示結果  
+![image](https://github.com/user-attachments/assets/0337cdbd-a1d4-48d4-9bad-780a5cb95e13)
+
+
 
 
 
